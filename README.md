@@ -2,6 +2,7 @@
 Identify which of the 1000 customers Sprocket Central Pty Ltd should target.
 
 [Presentation](https://github.com/khushiyadav2022/KPMG-Internship-/blob/0b2db53886a121e68ed83ec1c079bc4afd6c0037/KPMG%20Internship.pdf)
+[Presentation download]()
 
 **Problem1:**<br>
 Datasets provided by Sprocket Central Pty Ltd. We have to identify all data quality issues. Dataset have four sheets "Customer Demographic", "Customer Address", "Transactions" and "New Customer List" Once we've had a look at these datasets, draft an email to the client identifying all data quality issues.<br>
