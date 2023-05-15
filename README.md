@@ -33,7 +33,7 @@ Develop a dashboard that we can present to the client at our next meeting. Displ
 -> Profit Insight<br>
 -> Customer segment<br>
 [Zip file](https://github.com/khushiyadav2022/KPMG-Internship-/blob/0b2db53886a121e68ed83ec1c079bc4afd6c0037/KPMG_module2%20solution.zip)<br>
-
+[Dashboard](https://github.com/khushiyadav2022/KPMG-Internship-/blob/f014f72934f591c9e3b0fdf8253fe854fb0a78fb/KPMG%20Internship%20Dashboard.twbx)
 
 
 
