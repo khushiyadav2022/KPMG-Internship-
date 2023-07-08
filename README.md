@@ -1,6 +1,9 @@
-# KPMG-Internship-
-Identify which of the 1000 customers Sprocket Central Pty Ltd should target.
-![](https://cdn-assets.theforage.com/icons/KPMG-inside-sherpa-thumb.jpg)
+<h1 align='center'> KPMG-Internship </h1>
+<h4 align='center'>Identify which of the 1000 customers Sprocket Central Pty Ltd should target </h4>
+
+<p align="center">
+  <img src="https://cdn-assets.theforage.com/icons/KPMG-inside-sherpa-thumb.jpg" />
+</p>
 
 [Presentation](https://github.com/khushiyadav2022/KPMG-Internship-/blob/0b2db53886a121e68ed83ec1c079bc4afd6c0037/KPMG%20Internship.pdf)<br>
 Unable to read presentation then please downloaded it:
