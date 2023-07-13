@@ -33,8 +33,17 @@ Create a PowerPoint presentation which outlines the approach we will be taking t
 Develop a dashboard that we can present to the client at our next meeting. Display your data summary and results of the analysis in a dashboard (see tools/references for assistance). Specifically, your presentation should specify who Sprocket Central Pty Ltd' should be targeting out of the new 1000 customer list.<br>
 **Task: Dashboards**<br>
 -> Purchase trends of customer<br>
+
+![Purchase trends of customer](https://github.com/khushiyadav2022/KPMG-Internship-/assets/108923908/eaaa09e7-353b-41e8-97fb-fd0b875a6d3f)
+
 -> Profit Insight<br>
+
+![Profit Insight](https://github.com/khushiyadav2022/KPMG-Internship-/assets/108923908/a49d6727-e312-48c8-848a-d7d504b2da91)
+
 -> Customer segment<br>
+
+![Customer segment details](https://github.com/khushiyadav2022/KPMG-Internship-/assets/108923908/3063949e-31a1-48f6-b295-a7e764bfb6a3)
+
 [Zip file](https://github.com/khushiyadav2022/KPMG-Internship-/blob/0b2db53886a121e68ed83ec1c079bc4afd6c0037/KPMG_module2%20solution.zip)<br>
 [Dashboard](https://github.com/khushiyadav2022/KPMG-Internship-/blob/f014f72934f591c9e3b0fdf8253fe854fb0a78fb/KPMG%20Internship%20Dashboard.twbx)
 
